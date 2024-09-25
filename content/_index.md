@@ -1,5 +1,5 @@
 +++
-# title = "Hugo ʕ•ᴥ•ʔ Bear"
+
 +++
 
 ![_](/images/logo-outlines-color-gloss.png)
